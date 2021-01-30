@@ -6,7 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import ShowShowed from './whereISTreasure/selfmadeMaps'
 import ShowCharacter from './whereISTreasure/ShowYou'
 import ClickOnLink from './whereISTreasure/clickShowCharacter'
+import ClickOnLinkWork from './whereISTreasure/clickShowWork'
 
 // ReactDOM.render(<ShowShowed/>, document.getElementById('root'))
 // ReactDOM.render(<ShowCharacter/>, document.getElementById('root'))
-ReactDOM.render(<ClickOnLink/>, document.getElementById('root'))
+// ReactDOM.render(<ClickOnLink/>, document.getElementById('root'))
+ReactDOM.render(<ClickOnLinkWork/>, document.getElementById('root'))
